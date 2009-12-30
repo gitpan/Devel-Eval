@@ -25,4 +25,4 @@ resources:
   ChangeLog: http://fisheye2.atlassian.com/changelog/cpan/trunk/Devel-Eval
   license: http://dev.perl.org/licenses/
   repository: http://svn.ali.as/cpan/trunk/Devel-Eval
-version: 1.00
+version: 1.01
